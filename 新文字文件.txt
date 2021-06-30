@@ -1,0 +1,17 @@
+git branch dev
+git branch
+
+git checkout dev
+
+git checkout master
+git branch -d dev  (刪除分支)
+
+git checkout -b dev 建立分支跟移動分支
+
+git branch(看現在的支線)
+
+要把master並到分支上:
+
+先到master
+
+git merge --no-ff -m "keep merge" dev
