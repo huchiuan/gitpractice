@@ -15,3 +15,8 @@ git branch(看現在的支線)
 先到master
 
 git merge --no-ff -m "keep merge" dev
+
+
+(1.dev增加一行)
+
+(2.main增加一行)
