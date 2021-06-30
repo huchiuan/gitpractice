@@ -21,4 +21,8 @@ git merge --no-ff -m "keep merge" dev
 
 (2.main增加一行)
 
+
+day1增加一行
+
 main在day1增加後增加了一行><
+
